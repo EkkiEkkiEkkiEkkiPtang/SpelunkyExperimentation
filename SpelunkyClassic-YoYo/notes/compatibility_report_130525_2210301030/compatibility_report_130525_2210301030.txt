@@ -1,0 +1,867 @@
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\gameStepEvent\gameStepEvent.gml
+Converted builtin - line 243: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 243: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 244: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 244: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 243: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 244: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrCreateTile\scrCreateTile.gml
+String not found: ConversionLog_ConvertedString 379 "\" "\\"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrCreateTileObj\scrCreateTileObj.gml
+String not found: ConversionLog_ConvertedString 405 "\" "\\"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrSetCursorTile\scrSetCursorTile.gml
+String not found: ConversionLog_ConvertedString 100 "\" "\\"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrInitLevel\scrInitLevel.gml
+Converted builtin - line 141: background_index = bgTemple -> __background_set( e__BG.Index, 0, bgTemple )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrShake\scrShake.gml
+Converted builtin - line 9: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrInit\scrInit.gml
+String not found: ConversionLog_ConvertedString 29 ' ' " "
+String not found: ConversionLog_ConvertedString 30 ' ' " "
+String not found: ConversionLog_ConvertedString 43 'Z' "Z"
+String not found: ConversionLog_ConvertedString 44 'X' "X"
+String not found: ConversionLog_ConvertedString 45 'C' "C"
+String not found: ConversionLog_ConvertedString 47 'A' "A"
+String not found: ConversionLog_ConvertedString 48 'S' "S"
+String not found: ConversionLog_ConvertedString 49 'F' "F"
+String not found: ConversionLog_ConvertedString 50 'P' "P"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\scrDrawHUD\scrDrawHUD.gml
+Converted builtin - line 53: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 58: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 65: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 66: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 69: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 74: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 51: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 71: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 72: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 76: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\scripts\gmitf\gmitf.gml
+Converted description /// @description GameMaker Intro time fix
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oEnemy\Step_0.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Create_0.gml
+ERROR: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Create_0.gml - 5: unexpected syntax error
+ERROR: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Create_0.gml - 5: malformed variable reference got new
+ERROR: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Create_0.gml - 5: unexpected terminal operator new
+Too many errors - GML not processed : C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Create_0.gml
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oItem\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTreasure\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oDetritus\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oRubblePiece\Step_0.gml
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 25: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 26: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 26: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oBat\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oScarab\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSnake\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSpider\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSpiderHang\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGiantSpiderHang\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGiantSpider\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSkeleton\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oFrog\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oFireFrog\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oZombie\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oVampire\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oJaws\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oDeadFish\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oManTrap\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oMonkey\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oYetiKing\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oUFO\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oAlienEject\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oAlien\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oAlienBoss\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oBarrierEmitter\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oHawkman\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTombLord\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oOlmec\Create_0.gml
+Converted builtin - line 37: view_yview[0] = 400 -> __view_set( e__VW.YView, 0, 400 )
+Converted builtin - line 35: view_hborder[0] = 0 -> __view_set( e__VW.HBorder, 0, 0 )
+Converted builtin - line 36: view_vborder[0] = 0 -> __view_set( e__VW.VBorder, 0, 0 )
+Converted builtin - line 38: view_object[0] = oOlmec -> __view_set( e__VW.Object, 0, oOlmec )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oOlmec\Alarm_5.gml
+Converted builtin - line 3: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 1: view_hborder[0] = 128 -> __view_set( e__VW.HBorder, 0, 128 )
+Converted builtin - line 2: view_vborder[0] = 64 -> __view_set( e__VW.VBorder, 0, 64 )
+Converted builtin - line 4: view_object[0] = oPlayer1 -> __view_set( e__VW.Object, 0, oPlayer1 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oOlmec\Step_0.gml
+Converted builtin - line 52: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 52: view_xview[0] += 2 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (2) )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oDice\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGoldIdol\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oMsgSign\Draw_64.gml
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTree\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLeaves\Step_0.gml
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTreeBranch\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGrave\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSacAltarLeft\Destroy_0.gml
+Converted builtin - line 53: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 54: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 53: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 54: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 53: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 53: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 54: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSacAltarLeft\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oFakeBones\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oExplosion\Collision_7c7606f8-919d-4a23-b608-35d2de3663a4.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSpearTrapTop\Step_0.gml
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 80: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSpearTrapBottom\Step_0.gml
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 79: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 80: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 79: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 80: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSmashTrap\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSmashTrapLit\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSpringTrap\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oBatIntro\Step_0.gml
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oIntroBG\Step_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oMoon\Step_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oBGEnd3\Step_0.gml
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oShopkeeper\Step_0.gml
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oEditButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTestButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oNewButton\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGameMakerLogo\Draw_0.gml
+Converted builtin - line 1: background_xscale[0]=room_width/960 -> __background_set( e__BG.XScale, 0, room_width/960 )
+Converted builtin - line 2: background_yscale[0]=room_height/720 -> __background_set( e__BG.YScale, 0, room_height/720 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oScreen\Step_1.gml
+Converted description /// @description NEW
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oScreen\Draw_64.gml
+Converted description /// @description NEW
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oScreenLast\Step_0.gml
+Converted builtin - line 148: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 151: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 155: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 159: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 163: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 167: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 171: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 175: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 179: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 183: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 187: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 191: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 195: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 199: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 203: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 148: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 151: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 155: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 159: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 163: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 167: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 171: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 175: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 179: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 183: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 187: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 191: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 195: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 199: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 203: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGame\Create_0.gml
+Converted description /// @description  Create Game
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGame\Step_0.gml
+Converted builtin - line 42: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 43: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 42: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 43: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 42: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 42: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 43: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGame\Draw_64.gml
+Converted builtin - line 3: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Draw the HUD
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oGame\Draw_0.gml
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 42: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 51: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 61: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 83: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 104: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 17: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 42: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 51: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 61: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 72: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 83: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 94: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 104: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 115: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oHighscores\Step_0.gml
+Converted builtin - line 15: view_xview[0] = 0 -> __view_set( e__VW.XView, 0, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 16: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 8: view_yview[0] = __view_get( e__VW.YView, 0 ) + rand(1,8) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + rand(1,8) )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oSunRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oMoonRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oStarsRoom\Draw_0.gml
+Converted builtin - line 5: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevel\Step_0.gml
+Converted builtin - line 70: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 70: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 77: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 70: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview += 3 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (3) )
+Converted builtin - line 21: view_yview -= 3 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (3) )
+Converted builtin - line 70: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 77: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 19: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 70: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 77: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_vborder[0] = 0 -> __view_set( e__VW.VBorder, 0, 0 )
+Converted builtin - line 13: view_vborder[0] = 96 -> __view_set( e__VW.VBorder, 0, 96 )
+Converted builtin - line 28: view_vborder[0] = 96 -> __view_set( e__VW.VBorder, 0, 96 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevel\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevelEditor\Create_0.gml
+String not found: ConversionLog_ConvertedString 135 "\" "\\"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevelEditor\Step_0.gml
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview[0] += 4 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (4) )
+Converted builtin - line 8: view_xview[0] -= 4 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (4) )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] += 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (4) )
+Converted builtin - line 11: view_yview[0] -= 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (4) )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevelEditor\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 11: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 32: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 36: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 40: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 44: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 51: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 60: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 69: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 77: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 78: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 82: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 83: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 11: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 28: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 32: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 36: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 40: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 44: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 51: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 60: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 69: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 75: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 78: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 82: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 83: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 77: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 78: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLevelEditor\KeyPress_1.gml
+String not found: ConversionLog_ConvertedString 127 'E' "E"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oCursObj\Step_0.gml
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLoadLevel\Create_0.gml
+String not found: ConversionLog_ConvertedString 45 "levels\*.lvl" "levels\\*.lvl"
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oLoadLevel\Draw_0.gml
+Converted builtin - line 6: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oEnd\Step_0.gml
+Converted builtin - line 33: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 33: view_xview[0] += 1 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (1) )
+Converted builtin - line 23: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 30: view_yview[0] = 0 -> __view_set( e__VW.YView, 0, 0 )
+Converted builtin - line 23: view_yview[0] = __view_get( e__VW.YView, 0 ) + rand(1,8) -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + rand(1,8) )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oIntro\Draw_0.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTitle\Create_0.gml
+Converted builtin - line 17: view_xview[0] = 320 -> __view_set( e__VW.XView, 0, 320 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTitle\Step_0.gml
+Converted builtin - line 24: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 29: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 26: view_xview[0] -= 8 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) - (8) )
+Converted builtin - line 31: view_xview[0] += 8 -> __view_set( e__VW.XView, 0, __view_get( e__VW.XView, 0 ) + (8) )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oTitle\Draw_0.gml
+Converted builtin - line 20: view_xview[0] -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\oPlayer1\Step_0.gml
+Converted builtin - line 1234: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1235: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1234: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1235: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 389: view_yview[0] += 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) + (4) )
+Converted builtin - line 394: view_yview[0] -= 4 -> __view_set( e__VW.YView, 0, __view_get( e__VW.YView, 0 ) - (4) )
+Converted builtin - line 1234: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 1234: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 1235: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\yyScreen\Step_1.gml
+Converted builtin - line 1: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 8: view_wport[0] -> __view_get( e__VW.WPort, 0 )
+Converted builtin - line 1: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 9: view_hport[0] -> __view_get( e__VW.HPort, 0 )
+Converted builtin - line 12: view_surface_id[0] = surf -> __view_set( e__VW.SurfaceID, 0, surf )
+
+Converting GML script: C:\Users\John\AppData\Local\GameMakerStudio2\GMS2TEMP\ProjectTool\SpelunkyClassic-YoYo_1851120296_gmz\mvc\objects\yyScreen\Draw_0.gml
+Converted description /// @description  empty
+
+Missing audiogroup for sound: 'mBoss' - setting to default audio group
+Missing audiogroup for sound: 'mCave' - setting to default audio group
+Missing audiogroup for sound: 'mCredits' - setting to default audio group
+Missing audiogroup for sound: 'mIce' - setting to default audio group
+Missing audiogroup for sound: 'mLush' - setting to default audio group
+Missing audiogroup for sound: 'mTemple' - setting to default audio group
+Missing audiogroup for sound: 'mTitle' - setting to default audio group
+Missing audiogroup for sound: 'mVictory' - setting to default audio group
+Missing audiogroup for sound: 'xalien' - setting to default audio group
+Missing audiogroup for sound: 'xarrowtrap' - setting to default audio group
+Missing audiogroup for sound: 'xbat' - setting to default audio group
+Missing audiogroup for sound: 'xbigjump' - setting to default audio group
+Missing audiogroup for sound: 'xblink1' - setting to default audio group
+Missing audiogroup for sound: 'xblink2' - setting to default audio group
+Missing audiogroup for sound: 'xboing' - setting to default audio group
+Missing audiogroup for sound: 'xbombready' - setting to default audio group
+Missing audiogroup for sound: 'xbowpull' - setting to default audio group
+Missing audiogroup for sound: 'xbreak' - setting to default audio group
+Missing audiogroup for sound: 'xcavemandie' - setting to default audio group
+Missing audiogroup for sound: 'xchestopen' - setting to default audio group
+Missing audiogroup for sound: 'xclick' - setting to default audio group
+Missing audiogroup for sound: 'xclimb1' - setting to default audio group
+Missing audiogroup for sound: 'xclimb2' - setting to default audio group
+Missing audiogroup for sound: 'xcoin' - setting to default audio group
+Missing audiogroup for sound: 'xcrunch' - setting to default audio group
+Missing audiogroup for sound: 'xdamsel' - setting to default audio group
+Missing audiogroup for sound: 'xdie' - setting to default audio group
+Missing audiogroup for sound: 'xexplosion' - setting to default audio group
+Missing audiogroup for sound: 'xflame' - setting to default audio group
+Missing audiogroup for sound: 'xfrog' - setting to default audio group
+Missing audiogroup for sound: 'xgem' - setting to default audio group
+Missing audiogroup for sound: 'xghost' - setting to default audio group
+Missing audiogroup for sound: 'xgiantspider' - setting to default audio group
+Missing audiogroup for sound: 'xgspiderjump' - setting to default audio group
+Missing audiogroup for sound: 'xhit' - setting to default audio group
+Missing audiogroup for sound: 'xhurt' - setting to default audio group
+Missing audiogroup for sound: 'xignite' - setting to default audio group
+Missing audiogroup for sound: 'xjetpack' - setting to default audio group
+Missing audiogroup for sound: 'xjump' - setting to default audio group
+Missing audiogroup for sound: 'xkiss' - setting to default audio group
+Missing audiogroup for sound: 'xland' - setting to default audio group
+Missing audiogroup for sound: 'xlaser' - setting to default audio group
+Missing audiogroup for sound: 'xlasercharge' - setting to default audio group
+Missing audiogroup for sound: 'xletsexplore' - setting to default audio group
+Missing audiogroup for sound: 'xmattockbreak' - setting to default audio group
+Missing audiogroup for sound: 'xmonkey' - setting to default audio group
+Missing audiogroup for sound: 'xpause' - setting to default audio group
+Missing audiogroup for sound: 'xpfall' - setting to default audio group
+Missing audiogroup for sound: 'xpickup' - setting to default audio group
+Missing audiogroup for sound: 'xpsychic' - setting to default audio group
+Missing audiogroup for sound: 'xpush' - setting to default audio group
+Missing audiogroup for sound: 'xshotgun' - setting to default audio group
+Missing audiogroup for sound: 'xslam' - setting to default audio group
+Missing audiogroup for sound: 'xsmallexplode' - setting to default audio group
+Missing audiogroup for sound: 'xspiderjump' - setting to default audio group
+Missing audiogroup for sound: 'xsplash' - setting to default audio group
+Missing audiogroup for sound: 'xsteps' - setting to default audio group
+Missing audiogroup for sound: 'xteleport' - setting to default audio group
+Missing audiogroup for sound: 'xtfall' - setting to default audio group
+Missing audiogroup for sound: 'xthrow' - setting to default audio group
+Missing audiogroup for sound: 'xthud' - setting to default audio group
+Missing audiogroup for sound: 'xthump' - setting to default audio group
+Missing audiogroup for sound: 'xtrap' - setting to default audio group
+Missing audiogroup for sound: 'xwhip' - setting to default audio group
+Missing audiogroup for sound: 'xyetiyell' - setting to default audio group
+Missing audiogroup for sound: 'xzombie' - setting to default audio group
+Missing audiogroup for sound: 'xalert' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action\action_color.gml'
+Added compatibility script 'action\action_inherited.gml'
+Added compatibility script 'action\action_kill_object.gml'
+Added compatibility script 'background\draw_background_stretched.gml'
+Added compatibility script 'background\__background_set.gml'
+Added compatibility script 'background\__background_set_internal.gml'
+Added compatibility script 'instance\instance_create.gml'
+Added compatibility script 'joystick\joystick_check_button.gml'
+Added compatibility script 'joystick\joystick_direction.gml'
+Added compatibility script 'joystick\joystick_exists.gml'
+Added compatibility script 'joystick\joystick_has_pov.gml'
+Added compatibility script 'joystick\joystick_pov.gml'
+Added compatibility script 'joystick\joystick_zpos.gml'
+Added compatibility script 'joystick\__joystick_2_gamepad.gml'
+Added compatibility script 'object\object_get_depth.gml'
+Added compatibility script 'sound\sound_global_volume.gml'
+Added compatibility script 'sound\sound_play.gml'
+Added compatibility script 'sound\sound_stop_all.gml'
+Added compatibility script 'sound\sound_volume.gml'
+Added compatibility script 'tile\tile_add.gml'
+Added compatibility script 'tile\tile_delete.gml'
+Added compatibility script 'tile\tile_layer_find.gml'
+Added compatibility script 'view\room_set_view.gml'
+Added compatibility script 'view\__view_get.gml'
+Added compatibility script 'view\__view_set.gml'
+Added compatibility script 'view\__view_set_internal.gml'
+Added compatibility script 'action\__init_action.gml'
+Added compatibility script 'background\__init_background.gml'
+Added compatibility script 'joystick\__init_joystick.gml'
+Added compatibility script 'view\__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background\__background_get_element.gml'
+Added compatibility script 'background\__background_get_internal.gml'
+Added compatibility script 'background\__background_set_element.gml'
+Added compatibility script 'joystick\joystick_process_events.gml'
+Added compatibility script 'joystick\joystick_xpos.gml'
+Added compatibility script 'joystick\joystick_ypos.gml'
+Added compatibility script '__global_object_depths.gml'
